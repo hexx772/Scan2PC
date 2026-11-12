@@ -9,3 +9,6 @@ android/.gradle/
 .idea/
 *.iml
 dist/
+keystore.properties
+*.jks
+*.keystore

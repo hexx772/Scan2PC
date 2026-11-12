@@ -1,3 +1,5 @@
+import java.util.Properties
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
@@ -13,6 +15,23 @@ android {
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
+    }
+
+    // Релизная подпись: данные ключа лежат в android/keystore.properties (не в git)
+    val ksFile = rootProject.file("keystore.properties")
+    if (ksFile.exists()) {
+        val ks = Properties().apply { ksFile.inputStream().use { load(it) } }
+        signingConfigs {
+            create("release") {
+                storeFile = file(ks.getProperty("storeFile"))
+                storePassword = ks.getProperty("storePassword")
+                keyAlias = ks.getProperty("keyAlias")
+                keyPassword = ks.getProperty("keyPassword")
+            }
+        }
+        buildTypes {
+            getByName("release") { signingConfig = signingConfigs.getByName("release") }
+        }
     }
 
     compileOptions {
