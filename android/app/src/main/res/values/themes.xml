@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3, светлая/тёмная тема по настройкам системы.
+         На Android 12+ цвета подхватываются из обоев (DynamicColors). -->
+    <style name="Theme.Scan2PC" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>

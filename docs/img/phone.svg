@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 720" width="360" height="720" font-family="Roboto,Segoe UI,Arial,sans-serif">
+  <rect x="4" y="4" width="352" height="712" rx="36" fill="#FEF7FF" stroke="#CAC4D0" stroke-width="2"/>
+  <text x="24" y="52" font-size="22" font-weight="600" fill="#1D1B20">Scan2PC</text>
+  <rect x="20" y="70" width="320" height="52" rx="8" fill="none" stroke="#79747E"/>
+  <text x="32" y="102" font-size="14" fill="#49454F">Адрес ПК (необязательно, ищется сам)</text>
+  <rect x="20" y="132" width="320" height="52" rx="8" fill="none" stroke="#79747E"/>
+  <text x="32" y="164" font-size="14" fill="#49454F">Токен из окна приёмника  ••••••••</text>
+  <rect x="20" y="200" width="320" height="250" rx="20" fill="#2B2930"/>
+  <rect x="60" y="250" width="240" height="150" rx="10" fill="#fff" opacity=".92"/>
+  <rect x="60" y="250" width="240" height="150" rx="10" fill="none" stroke="#6750A4" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="180" y="340" text-anchor="middle" font-family="monospace" font-size="15" fill="#1D1B20">| || ||| | || |||  |||</text>
+  <text x="180" y="365" text-anchor="middle" font-family="monospace" font-size="12" fill="#49454F">5CD20451VN</text>
+  <text x="32" y="486" font-size="13" fill="#49454F">Ширина</text>
+  <rect x="90" y="480" width="200" height="4" rx="2" fill="#E7E0EC"/><rect x="90" y="480" width="140" height="4" rx="2" fill="#6750A4"/><circle cx="230" cy="482" r="9" fill="#6750A4"/>
+  <text x="32" y="522" font-size="13" fill="#49454F">Высота</text>
+  <rect x="90" y="516" width="200" height="4" rx="2" fill="#E7E0EC"/><rect x="90" y="516" width="80" height="4" rx="2" fill="#6750A4"/><circle cx="170" cy="518" r="9" fill="#6750A4"/>
+  <text x="180" y="566" font-size="13" fill="#6750A4" text-anchor="middle">Нажмите «Сканировать», код должен быть в рамке</text>
+  <rect x="20" y="590" width="212" height="56" rx="28" fill="#6750A4"/>
+  <text x="126" y="624" font-size="16" font-weight="600" fill="#fff" text-anchor="middle">Сканировать</text>
+  <rect x="244" y="590" width="96" height="56" rx="28" fill="#E8DEF8"/>
+  <text x="292" y="624" font-size="16" font-weight="600" fill="#1D192B" text-anchor="middle">Фото</text>
+  <text x="180" y="690" font-size="12" fill="#79747E" text-anchor="middle">Отправлено: 5CD20451VN</text>
+</svg>

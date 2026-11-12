@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 640" width="500" height="640" font-family="Segoe UI,Arial,sans-serif">
+  <rect width="500" height="640" rx="8" fill="#fff" stroke="#bbb"/>
+  <rect width="500" height="32" rx="8" fill="#f3f3f3"/><text x="14" y="21" font-size="13" fill="#222">Scan2PC: приёмник</text>
+  <text x="24" y="76" font-size="24" font-weight="700" fill="#111">Scan2PC: приёмник</text>
+  <text x="24" y="104" font-size="12" fill="#646464">Введите токен в приложении на телефоне один раз, адрес найдётся сам.</text>
+  <text x="24" y="150" font-size="13" font-weight="700" fill="#646464">1. Адрес ПК</text>
+  <rect x="24" y="158" width="344" height="34" fill="#f3f6ff" stroke="#888"/><text x="34" y="182" font-family="Consolas,monospace" font-size="17" font-weight="700">192.168.0.18:8765</text>
+  <rect x="376" y="157" width="100" height="36" rx="3" fill="#e1e1e1" stroke="#adadad"/><text x="426" y="180" font-size="13" text-anchor="middle">Копировать</text>
+  <text x="24" y="226" font-size="13" font-weight="700" fill="#646464">2. Токен</text>
+  <rect x="24" y="234" width="344" height="34" fill="#f3f6ff" stroke="#888"/><text x="34" y="258" font-family="Consolas,monospace" font-size="17" font-weight="700">a1b2c3d4e5f60718293a4b5c</text>
+  <rect x="376" y="233" width="100" height="36" rx="3" fill="#e1e1e1" stroke="#adadad"/><text x="426" y="256" font-size="13" text-anchor="middle">Копировать</text>
+  <rect x="24" y="300" width="452" height="48" fill="#e8f6ec"/><text x="40" y="330" font-size="15" font-weight="700" fill="#16803d">● Принято: 5CD20451VN</text>
+  <text x="24" y="392" font-size="12" fill="#16803d">Брандмауэр: порт 8765 открыт для телефона.</text>
+  <rect x="24" y="408" width="14" height="14" fill="#fff" stroke="#555"/><path d="M27,415 l3,3 l6,-7" stroke="#16803d" stroke-width="2" fill="none"/>
+  <text x="46" y="420" font-size="13">Нажимать Enter после каждого кода</text>
+  <text x="24" y="460" font-size="13" font-weight="700" fill="#646464">Принятые коды</text>
+  <rect x="24" y="468" width="452" height="112" fill="#fff" stroke="#888"/>
+  <g font-family="Consolas,monospace" font-size="12"><text x="32" y="488">10:42:07  5CD20451VN</text><text x="32" y="508">10:42:03  5R9R3EA#ACB</text><text x="32" y="528">10:41:58  15s-eq2102ur</text></g>
+  <text x="24" y="610" font-size="11" fill="#646464">Код вставляется туда, где стоит курсор: кликните в нужное поле.</text>
+</svg>

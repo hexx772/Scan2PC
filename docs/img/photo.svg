@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 720" width="360" height="720" font-family="Roboto,Segoe UI,Arial,sans-serif">
+  <rect x="4" y="4" width="352" height="712" rx="36" fill="#FEF7FF" stroke="#CAC4D0" stroke-width="2"/>
+  <text x="24" y="52" font-size="20" font-weight="600" fill="#1D1B20">← Коды на фото</text>
+  <rect x="20" y="80" width="320" height="440" rx="16" fill="#E7E0EC"/>
+  <rect x="50" y="130" width="260" height="70" rx="6" fill="#fff"/><text x="180" y="170" text-anchor="middle" font-family="monospace" font-size="14">| || ||| | || ||| |</text>
+  <rect x="50" y="240" width="260" height="70" rx="6" fill="#fff"/><text x="180" y="280" text-anchor="middle" font-family="monospace" font-size="14">|| | ||| || | |||</text>
+  <rect x="50" y="350" width="260" height="70" rx="6" fill="#fff"/><text x="180" y="390" text-anchor="middle" font-family="monospace" font-size="14">| ||| | || ||| ||</text>
+  <g fill="none" stroke="#6750A4" stroke-width="4"><rect x="44" y="124" width="272" height="82" rx="8"/><rect x="44" y="344" width="272" height="82" rx="8"/></g>
+  <g fill="#6750A4"><circle cx="316" cy="124" r="14"/><circle cx="316" cy="344" r="14"/></g>
+  <g fill="#fff" font-size="15" font-weight="700" text-anchor="middle"><text x="316" y="129">1</text><text x="316" y="349">2</text></g>
+  <rect x="44" y="234" width="272" height="82" rx="8" fill="none" stroke="#79747E" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="180" y="560" font-size="14" fill="#49454F" text-anchor="middle">Нажимайте на коды: они вставятся в этом порядке</text>
+  <rect x="20" y="590" width="320" height="56" rx="28" fill="#6750A4"/>
+  <text x="180" y="624" font-size="16" font-weight="600" fill="#fff" text-anchor="middle">Отправить (2)</text>
+</svg>

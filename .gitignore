@@ -1,0 +1,11 @@
+# секреты и локальные файлы
+pc/token.txt
+android/local.properties
+# сборка
+android/build/
+android/app/build/
+android/.gradle/
+.gradle/
+.idea/
+*.iml
+dist/
